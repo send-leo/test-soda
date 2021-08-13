@@ -1,0 +1,10 @@
+{
+  "name": "test-soda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "leo.park <leo.park@sendbird.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sendbird": "^3.0.154"
+  }
+}
